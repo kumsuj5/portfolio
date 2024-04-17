@@ -1,0 +1,13 @@
+.card-bg-cl {
+    background-color: black;
+    border-color: #09ffea;
+    box-shadow: 0px 0px 0px 0px rgb(102, 107, 106), 0 0px 20px 0 rgba(92, 95, 95, 0.233);
+
+}
+.card-bulb {
+
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7%;
+}
